@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		721A7E32279DB82200B9F3E0 /* NeuButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721A7E31279DB82200B9F3E0 /* NeuButtonStyle.swift */; };
+		721A7E34279DC04A00B9F3E0 /* BevelText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721A7E33279DC04A00B9F3E0 /* BevelText.swift */; };
 		721C5CAC279C6731003A92E3 /* ViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721C5CAB279C6731003A92E3 /* ViewExtension.swift */; };
 		72E332D427973FD30026AC8F /* ColorCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E332D327973FD30026AC8F /* ColorCircle.swift */; };
 		CD25DEBF253C26A200A218D4 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25DEBE253C26A200A218D4 /* Game.swift */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		721A7E31279DB82200B9F3E0 /* NeuButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeuButtonStyle.swift; sourceTree = "<group>"; };
+		721A7E33279DC04A00B9F3E0 /* BevelText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BevelText.swift; sourceTree = "<group>"; };
 		721C5CAB279C6731003A92E3 /* ViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtension.swift; sourceTree = "<group>"; };
 		72E332D327973FD30026AC8F /* ColorCircle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ColorCircle.swift; path = "../../../SwiftUI By Tutorials/sui-materials-editions-4.0/03-diving-deeper-into-swiftui/projects/starter/RGBullsEye/RGBullsEye/ColorCircle.swift"; sourceTree = "<group>"; };
 		CD25DEBE253C26A200A218D4 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
@@ -65,6 +69,8 @@
 				CD405EFA2536AA700062B1CC /* RGBullsEyeApp.swift */,
 				72E332D327973FD30026AC8F /* ColorCircle.swift */,
 				CD405EFC2536AA700062B1CC /* ContentView.swift */,
+				721A7E31279DB82200B9F3E0 /* NeuButtonStyle.swift */,
+				721A7E33279DC04A00B9F3E0 /* BevelText.swift */,
 				721C5CAB279C6731003A92E3 /* ViewExtension.swift */,
 				CDF08BAC253E84F10061DB4A /* Model */,
 				CD405EFE2536AA720062B1CC /* Assets.xcassets */,
@@ -185,8 +191,10 @@
 			files = (
 				CD405EFD2536AA700062B1CC /* ContentView.swift in Sources */,
 				CD25DEBF253C26A200A218D4 /* Game.swift in Sources */,
+				721A7E34279DC04A00B9F3E0 /* BevelText.swift in Sources */,
 				CD405EFB2536AA700062B1CC /* RGBullsEyeApp.swift in Sources */,
 				721C5CAC279C6731003A92E3 /* ViewExtension.swift in Sources */,
+				721A7E32279DB82200B9F3E0 /* NeuButtonStyle.swift in Sources */,
 				CD25DEC3253C279400A218D4 /* RGB.swift in Sources */,
 				CD25DEC6253C299400A218D4 /* ColorExtension.swift in Sources */,
 				72E332D427973FD30026AC8F /* ColorCircle.swift in Sources */,
